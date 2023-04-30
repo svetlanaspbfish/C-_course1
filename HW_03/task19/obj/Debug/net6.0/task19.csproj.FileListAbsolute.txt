@@ -1,0 +1,15 @@
+/home/sveta/GB_Cyber/C#_course1/HW_03/task19/obj/Debug/net6.0/task19.csproj.AssemblyReference.cache
+/home/sveta/GB_Cyber/C#_course1/HW_03/task19/obj/Debug/net6.0/task19.GeneratedMSBuildEditorConfig.editorconfig
+/home/sveta/GB_Cyber/C#_course1/HW_03/task19/obj/Debug/net6.0/task19.AssemblyInfoInputs.cache
+/home/sveta/GB_Cyber/C#_course1/HW_03/task19/obj/Debug/net6.0/task19.AssemblyInfo.cs
+/home/sveta/GB_Cyber/C#_course1/HW_03/task19/obj/Debug/net6.0/task19.csproj.CoreCompileInputs.cache
+/home/sveta/GB_Cyber/C#_course1/HW_03/task19/bin/Debug/net6.0/task19
+/home/sveta/GB_Cyber/C#_course1/HW_03/task19/bin/Debug/net6.0/task19.deps.json
+/home/sveta/GB_Cyber/C#_course1/HW_03/task19/bin/Debug/net6.0/task19.runtimeconfig.json
+/home/sveta/GB_Cyber/C#_course1/HW_03/task19/bin/Debug/net6.0/task19.dll
+/home/sveta/GB_Cyber/C#_course1/HW_03/task19/bin/Debug/net6.0/task19.pdb
+/home/sveta/GB_Cyber/C#_course1/HW_03/task19/obj/Debug/net6.0/task19.dll
+/home/sveta/GB_Cyber/C#_course1/HW_03/task19/obj/Debug/net6.0/refint/task19.dll
+/home/sveta/GB_Cyber/C#_course1/HW_03/task19/obj/Debug/net6.0/task19.pdb
+/home/sveta/GB_Cyber/C#_course1/HW_03/task19/obj/Debug/net6.0/task19.genruntimeconfig.cache
+/home/sveta/GB_Cyber/C#_course1/HW_03/task19/obj/Debug/net6.0/ref/task19.dll
