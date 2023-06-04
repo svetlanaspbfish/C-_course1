@@ -1,0 +1,15 @@
+/home/sveta/GB_Cyber/C#_course1/HW_08/task58/bin/Debug/net6.0/task58
+/home/sveta/GB_Cyber/C#_course1/HW_08/task58/bin/Debug/net6.0/task58.deps.json
+/home/sveta/GB_Cyber/C#_course1/HW_08/task58/bin/Debug/net6.0/task58.runtimeconfig.json
+/home/sveta/GB_Cyber/C#_course1/HW_08/task58/bin/Debug/net6.0/task58.dll
+/home/sveta/GB_Cyber/C#_course1/HW_08/task58/bin/Debug/net6.0/task58.pdb
+/home/sveta/GB_Cyber/C#_course1/HW_08/task58/obj/Debug/net6.0/task58.csproj.AssemblyReference.cache
+/home/sveta/GB_Cyber/C#_course1/HW_08/task58/obj/Debug/net6.0/task58.GeneratedMSBuildEditorConfig.editorconfig
+/home/sveta/GB_Cyber/C#_course1/HW_08/task58/obj/Debug/net6.0/task58.AssemblyInfoInputs.cache
+/home/sveta/GB_Cyber/C#_course1/HW_08/task58/obj/Debug/net6.0/task58.AssemblyInfo.cs
+/home/sveta/GB_Cyber/C#_course1/HW_08/task58/obj/Debug/net6.0/task58.csproj.CoreCompileInputs.cache
+/home/sveta/GB_Cyber/C#_course1/HW_08/task58/obj/Debug/net6.0/task58.dll
+/home/sveta/GB_Cyber/C#_course1/HW_08/task58/obj/Debug/net6.0/refint/task58.dll
+/home/sveta/GB_Cyber/C#_course1/HW_08/task58/obj/Debug/net6.0/task58.pdb
+/home/sveta/GB_Cyber/C#_course1/HW_08/task58/obj/Debug/net6.0/task58.genruntimeconfig.cache
+/home/sveta/GB_Cyber/C#_course1/HW_08/task58/obj/Debug/net6.0/ref/task58.dll
